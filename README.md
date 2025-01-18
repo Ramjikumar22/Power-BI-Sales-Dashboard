@@ -3,4 +3,3 @@ This repository contains a comprehensive Power BI Sales Dashboard designed to he
 <br><br>
 
 <img src="https://github.com/Ramjikumar22/Power-BI-Sales-Dashboard/blob/c822312821376ef873f111f19d0ca189126ef87e/Sales%20Dashboard.JPG" alt="image Description width="600".
-[!Dashboard Images](https://github.com/Ramjikumar22/Power-BI-Sales-Dashboard/blob/c822312821376ef873f111f19d0ca189126ef87e/Sales%20Dashboard.JPG)
